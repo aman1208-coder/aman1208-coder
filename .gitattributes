@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.svg -text
+*.png binary
+*.jpg binary
+*.jpeg binary

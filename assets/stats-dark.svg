@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="460" height="150">
+<rect x="0.5" y="0.5" width="459" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" font-family="JetBrains Mono, monospace" font-size="15" font-weight="700" fill="#c9d1d9">aman1208-coder</text>
+<text x="24" y="52" font-family="JetBrains Mono, monospace" font-size="10" fill="#30363d">live totals (basic — add METRICS_TOKEN for streaks)</text>
+<text x="24" y="72" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#39D353">0</text>
+<text x="24" y="88" font-family="JetBrains Mono, monospace" font-size="10" fill="#c9d1d9">★ Stars</text>
+<text x="161" y="72" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#39D353">0</text>
+<text x="161" y="88" font-family="JetBrains Mono, monospace" font-size="10" fill="#c9d1d9">Forks</text>
+<text x="299" y="72" font-family="JetBrains Mono, monospace" font-size="20" font-weight="700" fill="#39D353">0</text>
+<text x="299" y="88" font-family="JetBrains Mono, monospace" font-size="10" fill="#c9d1d9">Public Repos</text>
+</svg>
