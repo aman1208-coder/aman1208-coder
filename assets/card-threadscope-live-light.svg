@@ -4,5 +4,5 @@
 <text x="20" y="54" font-family="JetBrains Mono, monospace" font-size="11" fill="#24292f">A real-time JVM concurrency debugger — streams</text>
 <text x="20" y="70" font-family="JetBrains Mono, monospace" font-size="11" fill="#24292f">live thread states, CPU usage, and lock</text>
 <text x="20" y="86" font-family="JetBrains Mono, monospace" font-size="11" fill="#24292f">contention over WebSocket, with a rule-based</text>
-<text x="20" y="132" font-family="JetBrains Mono, monospace" font-size="10" fill="#57606a">⬤ —   ★ 0   ⑂ 0</text>
+<text x="20" y="132" font-family="JetBrains Mono, monospace" font-size="10" fill="#57606a">⬤ HTML   ★ 0   ⑂ 0</text>
 </svg>
