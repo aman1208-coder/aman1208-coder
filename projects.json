@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "ThreadScope-Live",
+      "description": "A real-time JVM concurrency debugger — streams live thread states, CPU usage, and lock contention over WebSocket, with a rule-based layer that flags long-held locks and contention."
+    },
+    {
+      "repo": "ConnectSphere",
+      "description": "A full-stack AI-powered collaboration platform with real-time chat, video calls, and Kanban boards, plus in-app AI assistance via the OpenAI API."
+    },
+    {
+      "repo": "SENTINEL-X",
+      "description": "An industrial safety intelligence platform built at the ET AI Hackathon — combines multiple hazard signals into one live compound risk score for operators."
+    },
+    {
+      "repo": "SAMIIP",
+      "description": "A campus-focused PropTech platform for discovering verified PGs, hostels, and shared flats, built backend-first with an API-first FastAPI service."
+    }
+  ]
+}
